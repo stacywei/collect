@@ -4,6 +4,7 @@
         android:key="@string/server_preferences"
         android:title="@string/aggregate_preferences">
         <EditTextPreference
+            android:defaultValue="https://post-aguaclara.appspot.com/"
             android:dialogTitle="@string/change_server_url"
             android:inputType="textNoSuggestions"
             android:key="server_url"
