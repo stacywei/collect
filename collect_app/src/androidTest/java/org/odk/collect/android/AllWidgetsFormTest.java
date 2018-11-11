@@ -253,7 +253,7 @@ public class AllWidgetsFormTest {
 
     public void skipInitialLabel() {
 
-        onView(withText(startsWith("Welcome to ODK Collect!"))).perform(swipeLeft());
+        onView(withText(startsWith("Welcome to POST Collect!"))).perform(swipeLeft());
 
     }
 

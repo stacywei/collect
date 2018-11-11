@@ -300,8 +300,8 @@
   <string name="username_error_whitespace">Leerzeichen am Anfang und Ende von Benutzernamen nicht erlaubt</string>
   <string name="google_play_services_error_occured">Zugriff auf Google Maps nicht möglich. Sind die Google Play Services installiert?</string>
   <string name="about_preferences">Über</string>
-  <string name="tell_your_friends">ODK Collect teilen</string>
-  <string name="tell_your_friends_msg">Erfassen Ihre Kollegen Daten immer noch auf Papier. Empfehlen Sie Ihnen ODK Collect.</string>
+  <string name="tell_your_friends">POST Collect teilen</string>
+  <string name="tell_your_friends_msg">Erfassen Ihre Kollegen Daten immer noch auf Papier. Empfehlen Sie Ihnen POST Collect.</string>
   <string name="leave_a_review">Geben Sie eine Play Store Bewertung ab</string>
   <string name="leave_a_review_msg">Ihre (hoffentlich positive) Bewertung steigert die Bekanntheit der App im Play Store.</string>
   <!--Geo string added in feature-geofeatures branch-->
@@ -595,7 +595,7 @@
   <string name="send_sms_runtime_permission_denied_title">SMS-Versand-Berechtigung</string>
   <string name="send_sms_runtime_permission_denied_desc">Ohne diese Berechtigung kann Collect keine SMS versenden. Bitte versuchen Sie es erneut, wenn Sie dazu bereit sind die Berechtigung zu erteilen.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Berechtigung Telefonstatus abrufen</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect macht keine Telefonanrufe aber benötigt Zugriff auf bestimmte Eigenschaften ihres Geräts, wie die Telefonnummer und Geräte-ID.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">POST Collect macht keine Telefonanrufe aber benötigt Zugriff auf bestimmte Eigenschaften ihres Geräts, wie die Telefonnummer und Geräte-ID.</string>
   <string name="form_update_category">Formular-Update</string>
   <string name="periodic_form_updates_check_title">Periodischer Formular-Update-Check</string>
   <string name="never">Nie</string>
@@ -646,7 +646,7 @@
   <string name="missing_google_account_dialog_desc">Um Formulare über Google Tabellen einzureichen, müssen Sie ihr Google-Konto bei den Server-Einstellungen einrichten.</string>
   <string name="sms_invalid_phone_number_description">Ziel-Telefonnummer für SMS-Versand einstellen oder Übertragungsart ändern.</string>
   <!--Text for temporary notification of upcoming change. Please do not translate "current()".-->
-  <string name="current_predicate_warning">Diese Frage wird mit zukünftigen Versionen von ODK Collect nicht mehr kompatibel sein, weil sie current() in einem Auswahlfilter verwendet. \n\nBitte stellen Sie sicher, dass die Person, die dieses Formular erstellt hat, die Details unten liest und aktiv wird.</string>
+  <string name="current_predicate_warning">Diese Frage wird mit zukünftigen Versionen von POST Collect nicht mehr kompatibel sein, weil sie current() in einem Auswahlfilter verwendet. \n\nBitte stellen Sie sicher, dass die Person, die dieses Formular erstellt hat, die Details unten liest und aktiv wird.</string>
   <string name="current_predicate_warning_title">Aktion nötig</string>
   <string name="current_predicate_forum">Details lesen</string>
   <string name="current_predicate_continue">Weiter</string>

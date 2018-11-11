@@ -293,8 +293,8 @@
   <string name="username_error_whitespace">Spazi vuoti all\'inizio e alla fine delle username non sono ammessi</string>
   <string name="google_play_services_error_occured">Impossibile accedere a Google Maps. Il Servizio di Google Play è installato?</string>
   <string name="about_preferences">Informazioni</string>
-  <string name="tell_your_friends">Condividi ODK Collect</string>
-  <string name="tell_your_friends_msg">I tuoi colleghi stanno ancora raccogliendo dati con carta e penna? Condividi ODK Collect con loro!</string>
+  <string name="tell_your_friends">Condividi POST Collect</string>
+  <string name="tell_your_friends_msg">I tuoi colleghi stanno ancora raccogliendo dati con carta e penna? Condividi POST Collect con loro!</string>
   <string name="leave_a_review">Lascia un commento su Play Store</string>
   <string name="leave_a_review_msg">Il tuo commento (speriamo positivo) aumenta la visibilità dell\'applicazione su Play Store</string>
   <!--Geo string added in feature-geofeatures branch-->

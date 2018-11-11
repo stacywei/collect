@@ -300,7 +300,7 @@
   <string name="username_error_whitespace">Nafasi za wazi kabla au baada ya jina la mtumiaji haziruhusiwi</string>
   <string name="google_play_services_error_occured">Upatikanaji wa ramani za google umeshindikana. Je, huduma ya Google Play imesakinishwa kwenye simu?</string>
   <string name="about_preferences">Kuhusu</string>
-  <string name="tell_your_friends">Shirikisha wengine programu ya ODK collect</string>
+  <string name="tell_your_friends">Shirikisha wengine programu ya POST Collect</string>
   <string name="tell_your_friends_msg">Je ndugu na jamaa zako bado wanakusanya taarifa kupitia karatasi? Washirikishe programu ya ODK.</string>
   <string name="leave_a_review">Acha tathmini katika Play Store</string>
   <string name="leave_a_review_msg">Tathmini yako (tunatumaini itakuwa chanya) inaongeza nafasi ya programu hii kuonekana Pay Store</string>
@@ -595,7 +595,7 @@
   <string name="send_sms_runtime_permission_denied_title">Tuma ruhusa ya meseji</string>
   <string name="send_sms_runtime_permission_denied_desc">Bila hizi ruhusa Collect haiwezi kutuma ujumbe wa SMS . Tafadhali jaribu tena ukiwa tayari kutoa ruhusa.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Soma ruhusa ya simu</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect haipigi simu lakini inahitaji kufikia taarifa fulani kuhusu kifaa chako kama namba ya simu na ya utambulisho wa kifaa.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">POST Collect haipigi simu lakini inahitaji kufikia taarifa fulani kuhusu kifaa chako kama namba ya simu na ya utambulisho wa kifaa.</string>
   <string name="form_update_category">Tolea jipya la fomu</string>
   <string name="periodic_form_updates_check_title">Ukaguzi wa mara kwa mara wa matolea mapya ya  fomu</string>
   <string name="never">Kamwe</string>
@@ -646,7 +646,7 @@
   <string name="missing_google_account_dialog_desc">Kuwasilisha  fomu kupitia karatasi ya Google , unatakiwa kurekebisha  akaunti yako ya Google kwenye mpangilio wa seva. </string>
   <string name="sms_invalid_phone_number_description">Weka namba ya simu itakayotumiwa ujumbe au badilisha aina yako ya usafirishaji</string>
   <!--Text for temporary notification of upcoming change. Please do not translate "current()".-->
-  <string name="current_predicate_warning">Swali hili halitakuwa tangamanifu na matoleo mapya ya ODK Collect kwa sababu linatumia current() katika chujio la kuchagua. \n\nTafadhali hakikisha aliyetengeneza fomu hii anasoma maelezo yafuatayo na kuyafanyia kazi.</string>
+  <string name="current_predicate_warning">Swali hili halitakuwa tangamanifu na matoleo mapya ya POST Collect kwa sababu linatumia current() katika chujio la kuchagua. \n\nTafadhali hakikisha aliyetengeneza fomu hii anasoma maelezo yafuatayo na kuyafanyia kazi.</string>
   <string name="current_predicate_warning_title">Kitendo kinahitajika</string>
   <string name="current_predicate_forum">Soma maelezo</string>
   <string name="current_predicate_continue">Endelea</string>

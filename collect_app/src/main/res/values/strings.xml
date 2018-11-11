@@ -305,8 +305,8 @@
     <string name="username_error_whitespace">Leading or trailing whitespace not allowed in usernames</string>
     <string name="google_play_services_error_occured">Unable to access Google Maps. Is Google Play Services installed?</string>
     <string name="about_preferences">About</string>
-    <string name="tell_your_friends">Share ODK Collect</string>
-    <string name="tell_your_friends_msg">Are your colleagues still collecting data on paper? Share ODK Collect with them.</string>
+    <string name="tell_your_friends">Share POST Collect</string>
+    <string name="tell_your_friends_msg">Are your colleagues still collecting data on paper? Share POST Collect with them.</string>
     <string name="leave_a_review">Leave a Play Store review</string>
     <string name="leave_a_review_msg">Your (hopefully positive) review increases the visibility of the App in the Play Store.</string>
     <!-- Geo string added in feature-geofeatures branch-->
@@ -605,7 +605,7 @@
     <string name="send_sms_runtime_permission_denied_title">Send SMS permission</string>
     <string name="send_sms_runtime_permission_denied_desc">Without this permission Collect can\'t send SMS messages. Please try again when you are ready to grant it.</string>
     <string name="read_phone_state_runtime_permission_denied_title">Read phone state permission</string>
-    <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect does not make calls but it needs to access certain properties about your device such as the phone number and device ID.</string>
+    <string name="read_phone_state_runtime_permission_denied_desc">POST Collect does not make calls but it needs to access certain properties about your device such as the phone number and device ID.</string>
     <string name="form_update_category">Form update</string>
     <string name="periodic_form_updates_check_title">Periodic form updates check</string>
     <string name="never">Never</string>
@@ -658,7 +658,7 @@
     <string name="sms_invalid_phone_number_description">Set a destination phone number for SMS submissions or change your transport type.</string>
 
     <!-- Text for temporary notification of upcoming change. Please do not translate "current()". -->
-    <string name="current_predicate_warning">This question will not be compatible with future versions of ODK Collect because it uses current() in a choice filter. \n\nPlease make sure the person who made this form reads the details below and takes action.</string>
+    <string name="current_predicate_warning">This question will not be compatible with future versions of POST Collect because it uses current() in a choice filter. \n\nPlease make sure the person who made this form reads the details below and takes action.</string>
     <string name="current_predicate_warning_title">Action needed</string>
     <string name="current_predicate_forum">Read details</string>
     <string name="current_predicate_continue">Continue</string>

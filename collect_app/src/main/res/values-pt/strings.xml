@@ -293,8 +293,8 @@ Escolher Imagem</string>
   <string name="username_error_whitespace">Espaços em branco antes e depois de nomes de usuários não são permitidos</string>
   <string name="google_play_services_error_occured">Não foi capaz de acessar o Google Maps. O serviço do Google Play está instalado?</string>
   <string name="about_preferences">Sobre</string>
-  <string name="tell_your_friends">Compartilhar ODK Collect</string>
-  <string name="tell_your_friends_msg">Seus colegas ainda estão coletando dados em papel? Compartilhe o ODK Collect com eles.</string>
+  <string name="tell_your_friends">Compartilhar POST Collect</string>
+  <string name="tell_your_friends_msg">Seus colegas ainda estão coletando dados em papel? Compartilhe o POST Collect com eles.</string>
   <string name="leave_a_review">Deixe um opinião sua na Play Store</string>
   <string name="leave_a_review_msg">A sua opinião (possivelmente positiva) aumenta a visibilidade da App na Play Store.</string>
   <!--Geo string added in feature-geofeatures branch-->

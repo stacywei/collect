@@ -275,7 +275,7 @@
   <string name="username_error_whitespace">Spacje na początku lub na końcu nazwy użytkownika są niedozwolone</string>
   <string name="google_play_services_error_occured">Nie można uzyskać dostępu do Google Maps. Czy Google Play Services są zainstalowane?</string>
   <string name="about_preferences">O Aplikacji</string>
-  <string name="tell_your_friends">Udostępnij ODK Collect</string>
+  <string name="tell_your_friends">Udostępnij POST Collect</string>
   <!--Geo string added in feature-geofeatures branch-->
   <string name="map_preferences">Mapowanie</string>
   <string name="map_sdk_selector_title">SDK Mapowania</string>

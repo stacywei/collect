@@ -355,7 +355,7 @@ public class FormEntryActivity extends CollectAbstractActivity implements Animat
 
             @Override
             public void denied() {
-                // The activity has to finish because ODK Collect cannot function without these permissions.
+                // The activity has to finish because POST Collect cannot function without these permissions.
                 finishAllActivities(FormEntryActivity.this);
             }
         });
@@ -2579,7 +2579,7 @@ public class FormEntryActivity extends CollectAbstractActivity implements Animat
                 // cases, the
                 // user should be notified, as it means they wandered off doing other
                 // things then
-                // returned to ODK Collect and chose Edit Saved Form, but that the
+                // returned to POST Collect and chose Edit Saved Form, but that the
                 // savepoint for that
                 // form is newer than the last saved version of their form data.
 

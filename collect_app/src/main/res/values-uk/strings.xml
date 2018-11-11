@@ -300,8 +300,8 @@
   <string name="username_error_whitespace">в імені користувача заборонені початкові та кінцеві пробіли</string>
   <string name="google_play_services_error_occured">Нема доступу до Google Карт. Чи встановлено Google Play Services?</string>
   <string name="about_preferences">Про нас</string>
-  <string name="tell_your_friends">Поширити ODK Collect</string>
-  <string name="tell_your_friends_msg">Ваші колеги досі збирають дані через паперові акети? Поділіться з ними ODK Collect.</string>
+  <string name="tell_your_friends">Поширити POST Collect</string>
+  <string name="tell_your_friends_msg">Ваші колеги досі збирають дані через паперові акети? Поділіться з ними POST Collect.</string>
   <string name="leave_a_review">Залишити відгук в Play Store</string>
   <string name="leave_a_review_msg">Ваш (сподіваємось позитивний) відгук покращить помітність програми в Play Store.</string>
   <!--Geo string added in feature-geofeatures branch-->
@@ -595,7 +595,7 @@
   <string name="send_sms_runtime_permission_denied_title">Дозвіл надсилати повідомлення</string>
   <string name="send_sms_runtime_permission_denied_desc">Без цього дозволу Collect не може надсилати повідомлення. Будь ласка, спробуйте знову коли будете готові надати його.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Сатус телефону</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect не робить телефонних дзвінків але потребує доступу до певних властивостей вашого пристрою як то номер телефну та ID пристрою</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">POST Collect не робить телефонних дзвінків але потребує доступу до певних властивостей вашого пристрою як то номер телефну та ID пристрою</string>
   <string name="form_update_category">Оновлення анкети</string>
   <string name="periodic_form_updates_check_title">Періодична перерівка оновлень анкет</string>
   <string name="never">Ніколи</string>
@@ -648,7 +648,7 @@
   <string name="missing_google_account_dialog_desc">Щоб надіслати анкету через Google Таблиці Ви повинні налаштувати обліковий запис Google в налаштуваннях сервера.</string>
   <string name="sms_invalid_phone_number_description">Вкажіть номер телефону для надсиланнячерез повідомлення або замініть тип відправки.</string>
   <!--Text for temporary notification of upcoming change. Please do not translate "current()".-->
-  <string name="current_predicate_warning">Це питання не буде сумісне з наступними версіями ODK Collect оскільки використовує current() в фільтрі альтернатив. \n\nБудь ласка, переконайтесь, що розробник цієї анкети прочитає докладну інформацію нижче та вжиє заходів.</string>
+  <string name="current_predicate_warning">Це питання не буде сумісне з наступними версіями POST Collect оскільки використовує current() в фільтрі альтернатив. \n\nБудь ласка, переконайтесь, що розробник цієї анкети прочитає докладну інформацію нижче та вжиє заходів.</string>
   <string name="current_predicate_warning_title">Необхідна дія</string>
   <string name="current_predicate_forum">Прочитайте докладну інформацію</string>
   <string name="current_predicate_continue">Продовжити</string>

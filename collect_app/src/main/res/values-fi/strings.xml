@@ -300,8 +300,8 @@
   <string name="username_error_whitespace">Käyttäjänimen alussa tai lopussa ei saa olla välilyöntimerkkejä</string>
   <string name="google_play_services_error_occured">Google Maps -palveluun ei saada yhteyttä. Onko Google Play Services asennettu?</string>
   <string name="about_preferences">Lisätietoja</string>
-  <string name="tell_your_friends">Jaa ODK Collect</string>
-  <string name="tell_your_friends_msg">Keräävätkö kollegasi vielä dataa paperilla? Jaa ODK Collect heidän kanssaan.</string>
+  <string name="tell_your_friends">Jaa POST Collect</string>
+  <string name="tell_your_friends_msg">Keräävätkö kollegasi vielä dataa paperilla? Jaa POST Collect heidän kanssaan.</string>
   <string name="leave_a_review">Kirjoita Play Store -arvio</string>
   <string name="leave_a_review_msg">Sinun (toivottavasti myönteinen) arviosi lisää sovelluksen näkyvyyttä Play Store -kaupassa.</string>
   <!--Geo string added in feature-geofeatures branch-->
@@ -595,7 +595,7 @@
   <string name="send_sms_runtime_permission_denied_title">SMS-lähetyslupa</string>
   <string name="send_sms_runtime_permission_denied_desc">Ilman tätä lupaa Collect ei pysty lähettämään SMS-viestejä. Ole hyvä ja yritä uudestaa kun olet valmis myöntämään sen.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Puhelimen tilan lukemisen lupa</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect ei soita puheluita, mutta se tarvitsee tiedot joistakin laitteesi tiedoista, kuten puhelinnumero ja laitteen ID.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">POST Collect ei soita puheluita, mutta se tarvitsee tiedot joistakin laitteesi tiedoista, kuten puhelinnumero ja laitteen ID.</string>
   <string name="form_update_category">Lomakepäivitys</string>
   <string name="periodic_form_updates_check_title">Ajastettu lomakepäivitysten tarkistus</string>
   <string name="never">Ei koskaan</string>
@@ -646,7 +646,7 @@
   <string name="missing_google_account_dialog_desc">Lähettääksesi lomakkeita Google Sheets -palvelun kautta sinun on asetettava Google-tili palvelinasetuksissa.</string>
   <string name="sms_invalid_phone_number_description">Aseta vastaanottopuhelinnumero SMS-lähetyksille tai vaihda siirtotapaa.</string>
   <!--Text for temporary notification of upcoming change. Please do not translate "current()".-->
-  <string name="current_predicate_warning">Tämä kysymys ei tule olemaan yhteensopiva ODK Collect -sovelluksen tulevien versioiden kanssa, koska se käyttää current() -funktiota valintasuodatuksessa. \n\nVarmista, että tämän kyselyn tehnyt henkilö lukee yksityiskohdat alla ja tekee tarvittavat muutokset.</string>
+  <string name="current_predicate_warning">Tämä kysymys ei tule olemaan yhteensopiva POST Collect -sovelluksen tulevien versioiden kanssa, koska se käyttää current() -funktiota valintasuodatuksessa. \n\nVarmista, että tämän kyselyn tehnyt henkilö lukee yksityiskohdat alla ja tekee tarvittavat muutokset.</string>
   <string name="current_predicate_warning_title">Toimenpiteitä tarvitaan</string>
   <string name="current_predicate_forum">Lue yksityiskohdat</string>
   <string name="current_predicate_continue">Jatka</string>

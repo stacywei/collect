@@ -83,7 +83,7 @@ public class FormChooserList extends FormListActivity implements
 
             @Override
             public void denied() {
-                // The activity has to finish because ODK Collect cannot function without these permissions.
+                // The activity has to finish because POST Collect cannot function without these permissions.
                 finishAllActivities(FormChooserList.this);
             }
         });

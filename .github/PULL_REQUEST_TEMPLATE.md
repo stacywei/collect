@@ -1,7 +1,7 @@
 Closes #
 
 <!-- 
-Thank you for contributing to ODK Collect!
+Thank you for contributing to POST Collect!
 
 Before sending this PR, please read
 https://github.com/opendatakit/collect/blob/master/CONTRIBUTING.md

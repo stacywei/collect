@@ -77,7 +77,7 @@ public class SplashScreenActivity extends Activity {
 
             @Override
             public void denied() {
-                // The activity has to finish because ODK Collect cannot function without these permissions.
+                // The activity has to finish because POST Collect cannot function without these permissions.
                 finish();
             }
         });

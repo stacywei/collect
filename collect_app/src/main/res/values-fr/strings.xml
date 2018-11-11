@@ -299,8 +299,8 @@
   <string name="username_error_whitespace">Les espaces ne sont pas permis au début ou à la fin du nom d\'utilisateur</string>
   <string name="google_play_services_error_occured">Impossible d’accéder à Google Maps. Google Play Services est-il installé ?</string>
   <string name="about_preferences">À propos</string>
-  <string name="tell_your_friends">Partager ODK Collect</string>
-  <string name="tell_your_friends_msg">Vos collègues continuent-ils à collecter des données sur papier? Partager ODK Collecter avec eux.</string>
+  <string name="tell_your_friends">Partager POST Collect</string>
+  <string name="tell_your_friends_msg">Vos collègues continuent-ils à collecter des données sur papier? Partager POST Collecter avec eux.</string>
   <string name="leave_a_review">Laissez un avis sur Play Store</string>
   <string name="leave_a_review_msg">Votre avis (ce qu\'on espère est positif) augmente la visibilité de l\'application dans le Play Store.</string>
   <!--Geo string added in feature-geofeatures branch-->
@@ -625,7 +625,7 @@
 d\'un problème sur l\'instance du fichier.</string>
   <string name="missing_google_account_dialog_title">Compte Google non sélectionné</string>
   <!--Text for temporary notification of upcoming change. Please do not translate "current()".-->
-  <string name="current_predicate_warning">Cette question ne sera pas compatible avec les versions futures de ODK Collect parce qu\'elle emploi current() dans un filtre de choix.\n\nVeuillez vous assurer que la personne qui a créé ce formulaire lise les details ci-dessous et agisse. </string>
+  <string name="current_predicate_warning">Cette question ne sera pas compatible avec les versions futures de POST Collect parce qu\'elle emploi current() dans un filtre de choix.\n\nVeuillez vous assurer que la personne qui a créé ce formulaire lise les details ci-dessous et agisse. </string>
   <string name="current_predicate_warning_title">Action requise</string>
   <string name="current_predicate_forum">Lire les details</string>
   <string name="current_predicate_continue">Continuer</string>
